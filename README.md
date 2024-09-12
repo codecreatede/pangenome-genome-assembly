@@ -5,4 +5,6 @@
 - 2023-10-21, Finished update: major changes to the code, added associative arrays and added the support for the multiple genome polishing such as pilon and jasper and also the coverage analysis 
 - 2024-2-20:, adding the support for the pacbiohifi, chromosomal polishing and structural rearrangements.
 
-Gaurav Sablok
+Gaurav Sablok \
+University of Potsdam \
+Potsdam,Germany
